@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0f050ede-29e3-47a4-9814-a5c0918c69b2" name="Changes" comment="Updates">
+      <change afterPath="$PROJECT_DIR$/src/test/java/stepDefinitions/APITest/Hooks/APIHOOKS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/DDT.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Database/testData.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/configrations/configBE.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/APIConfig.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/configrations/configE2E.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/configE2E.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Pages/AddUserPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Pages/AddUserPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Pages/AdminPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Pages/AdminPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Pages/DashboardPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Pages/DashBoardPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Pages/LoginPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Pages/LoginPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Pages/PageObject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Pages/PageObject.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/configSetup/ConfigurationsHnadling.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/configSetup/ConfigurationsHnadling.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/test/Defenitions/BE/Hooks/BEHOOKS.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/test/Defenitions/BE/stepDefention/BECommonStepDefenition.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepDefinitions/APITest/stepDefention/APICommonStepDefenition.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/test/Defenitions/BE/testDefenition/BECommonTestDefenition.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepDefinitions/APITest/testDefenition/APICommonTestDefenition.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/test/Defenitions/E2E/Hooks/E2EHooks.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepDefinitions/E2E/Hooks/E2EHooks.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/test/Defenitions/E2E/stepDefenetion/AddUserStepDefention.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepDefinitions/E2E/stepDefenetion/AddUserStepDefention.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/test/Defenitions/E2E/stepDefenetion/AdminStepDefinition.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepDefinitions/E2E/stepDefenetion/AdminStepDefinition.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/test/Defenitions/E2E/stepDefenetion/DashBoardStepDefinition.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepDefinitions/E2E/stepDefenetion/DashBoardStepDefinition.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/test/Defenitions/E2E/stepDefenetion/LoginStepDefinition.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepDefinitions/E2E/stepDefenetion/LoginStepDefinition.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/test/Defenitions/E2E/testDefenition/AddUserTestDefinition.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepDefinitions/E2E/testDefenition/AddUserTestDefinition.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/test/Defenitions/E2E/testDefenition/AdminTestDefenition.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepDefinitions/E2E/testDefenition/AdminTestDefenition.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/test/Defenitions/E2E/testDefenition/DashboardTestDefinition.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepDefinitions/E2E/testDefenition/DashboardTestDefinition.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/test/Defenitions/E2E/testDefenition/LoginTestDefinition.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepDefinitions/E2E/testDefenition/LoginTestDefinition.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/test/Helpers/Driver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Helpers/Driver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/test/Helpers/JSONHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Helpers/JSONHelper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/Features/addAndDelete.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Features/addAndDelete.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/Features/addDeleteAPI.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Features/addDeleteAPI.feature" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2fKr85vAfgF6HRftiDCq82uO8Jb" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Cucumber Java.Scenario: Add a new user and then delete the same user (1).executor&quot;: &quot;Run&quot;,
+    &quot;Cucumber Java.Scenario: Add a new user and then delete the same user.executor&quot;: &quot;Run&quot;,
+    &quot;Cucumber Java.Scenario: Verify that the user can add, search for and delete user (1).executor&quot;: &quot;Run&quot;,
+    &quot;Cucumber Java.Scenario: Verify that the user can add, search for and delete user (2).executor&quot;: &quot;Run&quot;,
+    &quot;Maven.TechAssessment [clean].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.TechAssessment [install].executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;18&quot;,
+    &quot;last_directory_selection&quot;: &quot;E:/testing/TechAssessment/src/main/java/Pages&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/USER/Documents/techAssessment/src/test/resources&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\USER\Documents\techAssessment\src\test\resources" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\USER\Documents\techAssessment\src\test\resources" />
+      <recent name="C:\Users\USER\Documents\techAssessment\src\test\java" />
+      <recent name="E:\testing\TechAssessment\src\main\resources" />
+      <recent name="E:\testing\TechAssessment\src\main\java" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="Pages" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Cucumber Java.Scenario: Add a new user and then delete the same user (1)">
+    <configuration name="Scenario: Add a new user and then delete the same user (1)" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/Features/addDeleteAPI.feature" />
+      <option name="GLUE" value="stepDefinitions.APITest.stepDefention stepDefinitions.E2E.Hooks stepDefinitions.APITest.Hooks" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="TechAssessment" />
+      <option name="NAME_FILTER" value="^Add a new user and then delete the same user$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^Add a new user and then delete the same user$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: Add a new user and then delete the same user" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: Add a new user and then delete the same user" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/java/Features/addDeleteAPI.feature" />
+      <option name="GLUE" value="stepDefinitions.BE.Hooks stepDefinitions.E2E.Hooks stepDefinitions.BE.stepDefention" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="TechAssessment" />
+      <option name="NAME_FILTER" value="^Add a new user and then delete the same user$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^Add a new user and then delete the same user$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: Add a new user and then delete the same user" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: Gefndlfknvdf" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/Features/addDeleteAPI.feature" />
+      <option name="GLUE" value="test.Defenitions.E2E.Hooks test.Defenitions.BE.Hooks test.Defenitions.BE.stepDefention" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="repo12" />
+      <option name="NAME_FILTER" value="^Gefndlfknvdf$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^Gefndlfknvdf$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: Gefndlfknvdf" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: Verify that the user can add, search for and delete user (1)" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/java/Features/addAndDelete.feature" />
+      <option name="GLUE" value="stepDefinitions.BE.Hooks stepDefinitions.E2E.stepDefenetion stepDefinitions.E2E.Hooks" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="TechAssessment" />
+      <option name="NAME_FILTER" value="^Verify that the user can add\, search for and delete user$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^Verify that the user can add\, search for and delete user$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: Verify that the user can add, search for and delete user" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: Verify that the user can add, search for and delete user (2)" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/Features/addAndDelete.feature" />
+      <option name="GLUE" value="stepDefinitions.E2E.stepDefenetion stepDefinitions.E2E.Hooks stepDefinitions.APITest.Hooks" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="TechAssessment" />
+      <option name="NAME_FILTER" value="^Verify that the user can add\, search for and delete user$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^Verify that the user can add\, search for and delete user$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: Verify that the user can add, search for and delete user" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AddStepDef" type="TestNG" nameIsGenerated="true">
+      <module name="TechAssessment" />
+      <shortenClasspath name="NONE" />
+      <useClassPathOnly />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.stepDefenetion.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="test.stepDefenetion" />
+      <option name="MAIN_CLASS_NAME" value="test.stepDefenetion.AddStepDef" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Cucumber Java.Scenario: Add a new user and then delete the same user (1)" />
+      <item itemvalue="Cucumber Java.Scenario: Verify that the user can add, search for and delete user (2)" />
+      <item itemvalue="Cucumber Java.Scenario: Add a new user and then delete the same user" />
+      <item itemvalue="Cucumber Java.Scenario: Verify that the user can add, search for and delete user (1)" />
+      <item itemvalue="Cucumber Java.Scenario: Gefndlfknvdf" />
+      <item itemvalue="TestNG.AddStepDef" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Cucumber Java.Scenario: Add a new user and then delete the same user (1)" />
+        <item itemvalue="Cucumber Java.Scenario: Verify that the user can add, search for and delete user (2)" />
+        <item itemvalue="Cucumber Java.Scenario: Verify that the user can add, search for and delete user (1)" />
+        <item itemvalue="Cucumber Java.Scenario: Add a new user and then delete the same user" />
+        <item itemvalue="Cucumber Java.Scenario: Gefndlfknvdf" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0f050ede-29e3-47a4-9814-a5c0918c69b2" name="Changes" comment="" />
+      <created>1713560448738</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1713560448738</updated>
+    </task>
+    <task id="LOCAL-00001" summary="commit">
+      <created>1713724516992</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1713724516992</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="commit" />
+    <MESSAGE value="Updates" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updates" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/TechAssessment$AddStepDef.ic" NAME="AddStepDef Coverage Results" MODIFIED="1713565238326" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>test.stepDefenetion.*</FILTER>
+    </SUITE>
+  </component>
+</project>
